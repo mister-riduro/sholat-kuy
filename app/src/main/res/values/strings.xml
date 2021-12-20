@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SholatKuy v2</string>
+    <string name="waktu_sholat">Waktu Sholat</string>
+    <string name="artikel_islam">Artikel Islam</string>
+    <string name="arah_kiblat">Arah Kiblat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sholat_terdekat">Sholat Terdekat</string>
+    <string name="dhuhur">Dhuhur</string>
+    <string name="ubah_lokasi">Ubah Lokasi</string>
+    <string name="artikel_hari_ini">Artikel Hari Ini</string>
+    <string name="baca_artikel">Baca Artikel</string>
+</resources>
