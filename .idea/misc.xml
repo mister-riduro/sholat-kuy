@@ -7,11 +7,13 @@
         <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/drawable/botnav_item_color.xml" value="0.26614583333333336" />
         <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/drawable/ic_compass.xml" value="0.26614583333333336" />
         <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/layout/activity_ubah_lokasi.xml" value="0.25" />
         <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/layout/fragment_arah_kiblat.xml" value="0.264" />
         <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/layout/fragment_artikel_islam.xml" value="0.176" />
         <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/layout/fragment_waktu_sholat.xml" value="0.264" />
         <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/layout/item_action_bar.xml" value="0.25" />
-        <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/layout/item_waktu_sholat.xml" value="0.4" />
+        <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/layout/item_lokasi.xml" value="0.25" />
+        <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/layout/item_waktu_sholat.xml" value="0.264" />
         <entry key="..\:/College/Semester-5/Mobile-Programming/Praktikum/sholat-kuy-v2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
       </map>
     </option>

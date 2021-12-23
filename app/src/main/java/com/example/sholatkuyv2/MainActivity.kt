@@ -4,7 +4,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.appcompat.app.ActionBar
 import androidx.fragment.app.Fragment
+import androidx.lifecycle.ViewModelProvider
 import com.example.sholatkuyv2.databinding.ActivityMainBinding
+import com.example.sholatkuyv2.repository.Repository
 import com.example.sholatkuyv2.ui.ArahKiblatFragment
 import com.example.sholatkuyv2.ui.ArtikelIslamFragment
 import com.example.sholatkuyv2.ui.WaktuSholatFragment
@@ -12,7 +14,7 @@ import com.example.sholatkuyv2.ui.WaktuSholatFragment
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
-
+//    private lateinit var viewModel: MainViewModel
 
     override fun onCreate(savedInstanceState: Bundle?) {
         binding = ActivityMainBinding.inflate(layoutInflater)

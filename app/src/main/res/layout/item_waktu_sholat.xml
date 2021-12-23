@@ -7,7 +7,7 @@
     android:background="@color/secondary_black">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/tvNamaSholat"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
@@ -24,6 +24,7 @@
         />
 
     <TextView
+        android:id="@+id/tvWaktuSholat"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
